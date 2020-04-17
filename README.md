@@ -34,7 +34,7 @@ The main body of work can be found in the notebook folder and the order sequence
 
 3) Feature Engineering and Modelling.
 
-The CSV files used for this project are saved in the CSV folder.
+The CSV files used for this project are saved in the Data folder.
 
 A PDF presentation is accompanied in the main folder.
 
