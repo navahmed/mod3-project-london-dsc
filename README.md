@@ -36,6 +36,8 @@ The main body of work can be found in the notebook folder and the order sequence
 
 The CSV files used for this project are saved in the CSV folder.
 
+A PDF presentation is accompanied in the main folder.
+
 ### References -
 
 https://catalog.data.gov/dataset/terry-stops
