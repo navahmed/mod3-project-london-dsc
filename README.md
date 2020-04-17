@@ -44,3 +44,6 @@ https://catalog.data.gov/dataset/terry-stops
 https://www.law.cornell.edu/constitution/fourth_amendment
 https://en.wikipedia.org/wiki/Terry_stop
 https://en.wikipedia.org/wiki/Reasonable_suspicion
+
+
+
