@@ -38,12 +38,4 @@ The CSV files used for this project are saved in the Data folder.
 
 A PDF presentation is accompanied in the main folder.
 
-### References -
-
-https://catalog.data.gov/dataset/terry-stops
-https://www.law.cornell.edu/constitution/fourth_amendment
-https://en.wikipedia.org/wiki/Terry_stop
-https://en.wikipedia.org/wiki/Reasonable_suspicion
-
-
 
